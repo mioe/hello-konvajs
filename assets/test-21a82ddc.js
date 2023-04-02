@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,a as c}from"./index-a664f924.js";const o={},n=c("h1",null," test.vue ",-1),a=[n];function _(r,l){return s(),t("main",null,a)}const f=e(o,[["render",_]]);export{f as default};
