@@ -1,0 +1,1 @@
+import{_ as c,o as e,c as a,d as t,a as o,b as s}from"./index-0cc24d37.js";const _={};function l(n,r){return e(),a("h1",null," PSTabBar.vue ")}const u=c(_,[["render",l]]),p=t({__name:"tab-bar",setup(n){return(r,f)=>(e(),a("main",null,[o("h1",null,[s(u)])]))}});export{p as default};
