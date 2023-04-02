@@ -7,7 +7,7 @@ export default defineConfig(({ command, mode }) => {
 	console.log('🦕 vite.config.ts/defineConfig', command, mode)
 
 	return {
-		base: mode === 'development' ? './' : '/playground/',
+		base: mode === 'development' ? './' : '/hello-konvajs/',
 
 		plugins: [
 			vue(),
